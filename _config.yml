@@ -43,20 +43,15 @@ social:
     url: https://www.instagram.com/_potato_stuff_
   - title: youtube
     url: https://www.youtube.com/@potato_kids/
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+  - title: tiktok
+    url: https://www.tiktok.com/@_potato_kids_
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Switzerland
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Smol Potato Games is an indie development studio for games and music and everything that is fun and silly.'
 
 # Build settings
 markdown: kramdown
