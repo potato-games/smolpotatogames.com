@@ -7,5 +7,5 @@ alt: youtube
 project-date: 2023
 client: self
 category: Music
-description: <a href="https://www.youtube.com/@potato_kids">Potato Kids</a> is a Youtube channel with self-produced musics and music videos.
+description: lala is a Youtube channel with self-produced musics and music videos.
 ---
