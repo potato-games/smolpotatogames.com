@@ -39,6 +39,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: threads
+    url: https://www.threads.net/@_potato_stuff_
   - title: instagram
     url: https://www.instagram.com/_potato_stuff_
   - title: youtube
