@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2023-01-01
-img: cabin.png
+img: potato_songs_youtube.webp
 alt: youtube
 project-date: 2023-01-01
 client: self
