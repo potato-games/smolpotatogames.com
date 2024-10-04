@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2024-10-03
+img: potato_songs_2.webp
+alt: Potato Songs Vol2
+project-date: 2024
+client: self
+category: Music Production
+description: <a href="https://ditto.fm/potato-songs">Potato Songs Vol 2</a> is a music album released across multiple online music streaming services.
+---
