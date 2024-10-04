@@ -4,8 +4,8 @@ modal-id: 4
 date: 2024-01-15
 img: potato_jump.webp
 alt: Potato Jump Mobile Game
-project-date: April 2014
-client: selb
+project-date: 2024
+client: self
 category: Mobile Game Development
-description: Potato Jump is a Mobile Game created with Defold for <a href="https://apps.apple.com/us/app/smol-potato-jump/id6670405432">iOS</a> and <a href="https://play.google.com/store/apps/details?id=com.smallpotatogames.jump">Android</a>.
+description: Potato Jump is a Mobile Game created with Defold for <a href="https://apple.co/3By0k4D">iOS</a> and <a href="https://bit.ly/3ZQUght">Android</a>.
 ---
