@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-09-22
-img: cake.png
+img: potato_songs.webp
 alt: image-alt
 project-date: 2023
 client: self
