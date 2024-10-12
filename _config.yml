@@ -8,6 +8,7 @@ skills: "Fun and silly games and music"
 meta_author: smolpotatogames
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Google webmaster tools
 google_verify:
